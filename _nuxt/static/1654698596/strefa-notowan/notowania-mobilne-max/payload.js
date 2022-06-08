@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/strefa-notowan/notowania-mobilne-max", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/strefa-notowan/notowania-5-max", {data:[{}],fetch:{},mutations:[]});

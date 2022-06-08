@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/strefa-notowan/wymagania-notowania-5", {data:[{}],fetch:{},mutations:[]});

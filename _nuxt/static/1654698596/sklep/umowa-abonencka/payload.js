@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sklep/umowa-abonencka", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/oferta/inwestorzy-gieldowi", {data:[{}],fetch:{},mutations:[]});

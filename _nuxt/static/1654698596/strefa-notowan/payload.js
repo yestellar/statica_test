@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/strefa-notowan", {data:[{}],fetch:{},mutations:[]});
